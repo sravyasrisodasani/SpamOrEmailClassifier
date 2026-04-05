@@ -109,3 +109,14 @@ spam_classifier
 ├── vectorizer.pkl
 ├── requirements.txt
 ├── README.md
+
+### Screenshots
+
+**Ham Messages**  
+![Ham 1](images/ham1.png)  
+![Ham 2](images/ham2.png)  
+
+**Spam Messages**  
+![Spam 1](images/spam1.png)  
+![Spam 2](images/spam2.png)  
+![Spam 3](images/spam3.png)  
